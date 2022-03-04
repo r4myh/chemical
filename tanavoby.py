@@ -8,7 +8,7 @@ init()
 txt = pyfiglet.figlet_format("Chemical tanavoby", font="slant")
 print(txt)
 
-print(Fore.LIGHTMAGENTA_EX+" author reza molaie \n ")
+print(Fore.LIGHTMAGENTA_EX+" author r-m \n ")
 
 
 
@@ -513,4 +513,4 @@ print(Fore.RED+"END")
 
 
 
-#author reza molaie
+#author r m
